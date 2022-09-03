@@ -1,0 +1,43 @@
+
+.votbtn{
+    padding: 12px 24px;
+    background-image: linear-gradient(to right, #A01A58, #7E2EC0);
+    color: white;
+    border-radius: 6px;
+    border: 2px white solid;
+    transition:  250ms ease-in-out;
+    margin-left: auto;
+}
+.votbtn:hover{
+    transform: scale(1.1);
+}
+.votbtn:active{
+    transform: scale(0.6);
+}
+.ti{
+    font-size: 40px;
+    font-weight: 500;
+    margin-top: 100px;
+}
+
+#vn{
+    background-image: linear-gradient(to right,#b1902b,#d91fb7c2);
+    color: white;
+    padding-top: 5%;
+}
+.form{
+    border:5px #7E2EC0  solid ;
+    border-radius: 10px;
+}
+
+.bg{
+    background-color: #198754;
+}
+
+.img{
+    size: 10px;
+}
+
+
+
+
